@@ -14,3 +14,5 @@ CREATE INDEX idx_employees_last_name
 on employees (last_name);
 
 SHOW data_directory;
+
+SELECT * FROM jobeyer;
