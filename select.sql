@@ -235,6 +235,8 @@ set email = 'default@gmail.com', age = 60
 WHERE student_id = 15;
 
 
+SELECT * FROM learners;
+
 
 
 
